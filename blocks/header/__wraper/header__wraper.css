@@ -1,0 +1,17 @@
+.header__wraper {
+  width: 1030px;
+  height: 850px;
+  background: #56CCF2;
+  position: relative;
+  /* overflow: hidden; */
+}
+
+.header__wraper:after {
+  content: "";
+  position: absolute;
+  right: 0;
+  width: 320px;
+  height: 850px;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0.25) 0%, rgba(255, 255, 255, 0) 100%), #56CCF2;
+  transform: skew(-25deg, 0);
+}

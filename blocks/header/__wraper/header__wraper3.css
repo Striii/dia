@@ -1,0 +1,9 @@
+.header__wraper3 {
+  background: url(../../../images/photo.png) center bottom/cover no-repeat;
+  width: 1146px;
+  height: 760px;
+  z-index: 2;
+  position: absolute;
+  bottom: -320px;
+  left: 235px;
+}
