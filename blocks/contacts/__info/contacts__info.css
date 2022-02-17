@@ -1,0 +1,11 @@
+.contacts__info {
+  margin-top: 27px;
+  border: 1px solid #E5E5E5;
+  height: 50px;
+  width: 255px;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  padding-left: 15px;
+}

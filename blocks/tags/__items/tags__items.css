@@ -1,0 +1,10 @@
+.tags__items {
+  padding-left: 0;
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}

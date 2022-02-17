@@ -1,0 +1,11 @@
+.menu__link {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  width: 364px;
+  /* height: 100%; */
+  padding-left: 0;
+}

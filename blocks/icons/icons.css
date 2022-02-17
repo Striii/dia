@@ -1,0 +1,8 @@
+.icons {
+  width: 16px;
+  height: 16px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  padding-left: 0;
+}
