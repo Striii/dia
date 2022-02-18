@@ -1,14 +1,8 @@
 .logo {
-  display: flex;
-  flex-direction: row;
-  width: 100px;
-  height: 23px;
-  justify-content: space-between;
-  align-items: center;
   text-decoration: none;
-  box-sizing: content-box;
-  background: url(../../../images/logo/logo_prem.png) no-repeat;
   color: #FFFFFF;
-  z-index: 2;
-  background-position: left center;
+  z-index: 4;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 32px;
 }
